@@ -3,4 +3,4 @@
 	commit -m ""  提交文件
 	status 查看文件状态
 	diff 查看内容变动
-	
+	log 查看提交日志
