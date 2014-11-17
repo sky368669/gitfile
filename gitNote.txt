@@ -1,0 +1,6 @@
+1、git命令：
+	add  往git库中添加一个文件
+	commit -m ""  提交文件
+	status 查看文件状态
+	diff 查看内容变动
+	
